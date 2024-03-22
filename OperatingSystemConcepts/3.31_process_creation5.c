@@ -1,3 +1,5 @@
+// 프로세스 개수는??
+// 8개 입니다..
 #include <stdio.h>
 #include <unistd.h>
 
